@@ -1,3 +1,5 @@
+**This repository is soon to be invalidated by emusak-ui**
+
 # Emu.Compat
 A website for the progress of Emu.compat (can't think of a better name)
 
